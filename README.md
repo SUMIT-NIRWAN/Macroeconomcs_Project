@@ -1,3 +1,6 @@
+**Macroeconomcs_Project**
+
+1:
 Dynamic Programming: Value and Policy Function Iteration with Interpolation
 Project Overview
 This project focuses on implementing Value Function Iteration (VFI) and Policy Function Iteration (PFI) using the Bellman Equation. The primary goal of this project was to learn the concepts of dynamic programming and apply interpolation techniques to approximate value and policy functions.
